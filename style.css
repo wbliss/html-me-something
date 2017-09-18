@@ -1,0 +1,47 @@
+html {
+    margin:10px 10px 10px 20px;
+    font-family: Helvetica, sans-serif;
+    color: black;
+    background-color: red;
+}
+h3 {
+    text-align: center;
+}
+main p {
+    padding-top: 15px;
+    padding-right: 80px;
+    padding-bottom: 30px;
+    padding-left: 80px;
+}
+header {
+   background-color: goldenrod;
+}
+.icon img {
+    border: black solid;
+    text-align: left;
+    display: block;
+}
+.icon {
+    width: 100px;
+    text-align: left;
+    display: block;
+}
+main img {
+    margin: auto;
+    height: 500px;
+    display: block;
+}
+.top {
+    text-align: center;
+    padding-right: 80px;
+    padding-left: 80px;
+}
+#copyright {
+    font-size: 5;
+    color: grey;
+    text-align: center;
+}
+#header {
+    vertical-align: top;
+    text-align: center;
+}
